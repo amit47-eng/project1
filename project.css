@@ -93,5 +93,14 @@ div button{
     height: fit-content;  
 }
 #image1{
-    box-shadow:1px 1px 20px yellow;
+    box-shadow:1px 1px 20px rgb(255, 255, 255);
+}
+#image3{
+    box-shadow:1px 1px 20px rgb(255, 255, 255);
+}
+#image2{
+    box-shadow:1px 1px 20px rgb(255, 255, 255);
+}
+#image4{
+    box-shadow:1px 1px 20px rgb(255, 255, 255);
 }

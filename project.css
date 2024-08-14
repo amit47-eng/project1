@@ -1,0 +1,97 @@
+#imagel{
+    border-radius: 50%;
+    filter: drop-shadow(1px 1px 20px red);
+    
+}
+#main{
+    background-color: rgb(255, 249, 166);
+    color:rgb(255, 38, 0);
+}
+input{
+    float: right;  padding: 6px;  border: none;  margin-top: 20px;  margin-right: 16px;  font-size: 17px;
+    
+}
+nav a {
+    font-size: larger; font-style: arial; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-weight:10px; text-decoration : underline; word-spacing : 1px;  color: #FFF;
+    margin: 0 1em;
+    text-decoration:yellowgreen;
+    font-size: 1.2em;
+}
+nav{
+    background-color: #000000;
+    padding: 1em 0;
+    text-align: center;
+   
+}
+header img{
+    float:inline-start;
+}
+header h3{
+    float: inline-start;
+    
+}
+header{
+    align-items: center;
+}
+.container{
+    
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+     /* background-color: rgb(203, 241, 241); */
+   box-sizing: border-box;
+}
+div span{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    text-align: center;
+    color: rgb(93, 0, 169);
+}
+.item1{
+    align-items: center;
+    border: 1px solid black;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5%;
+    background-color: rgb(176, 247, 247);
+
+}
+.item2{
+    border: 1px solid black;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5%;
+    background-color: rgb(176, 247, 247);
+}
+.item3{
+    border: 1px solid black;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5%;
+    background-color: rgb(176, 247, 247);
+}
+.item4{
+    border: 1px solid black;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 5%;
+    background-color: rgb(176, 247, 247);
+}
+div p{
+    font-family: cursive;
+    font-size: larger;
+    color: #595454;
+}
+div button{
+    width: 300px;
+    border: red solid;
+    font-size: large;
+    background:linear-gradient(to left, rgb(255, 162, 0), rgb(255, 77, 0) );
+    color: rgb(255, 68, 0);
+    border-radius: 30%;
+    height: fit-content;  
+}
+#image1{
+    box-shadow:1px 1px 20px yellow;
+}
